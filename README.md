@@ -4,7 +4,7 @@
 
 **Попробовать интерактивную демо-версию можно по ссылке:**
 
-### [➡️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/koziymaxim/chicken-segmentation)
+### [➡️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/koziymaxim/restore-spaces)
 
 ---
 
