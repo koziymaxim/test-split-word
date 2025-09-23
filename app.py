@@ -13,12 +13,12 @@ st.write("Напишите любой текст без пробелов и я �
 
 text = st.text_input("Ваш текст:", placeholder="Мамамылараму")
 
-if st.button("Восставноить пробелы"):
+if st.button("Восстановить пробелы"):
     if text:
         with st.spinner("Думаю..."):
             try:
                 answer = restore_spaces(text)
-                st.success(f"Ответ: {answer}")
+                st.success(f"**Результат:** {answer}")
             except Exception as e:
                 st.error(f"Произошла ошибка: {e}")
     else:
